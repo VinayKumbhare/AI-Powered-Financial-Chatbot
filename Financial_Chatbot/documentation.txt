@@ -1,0 +1,19 @@
+Financial Chatbot Documentation
+
+Overview:
+This chatbot is a simple rule-based financial chatbot developed using Python.
+
+Predefined Queries:
+1. Total Revenue
+2. Net Income
+3. Total Assets
+4. Operating Cash Flow
+5. Best Performing Company
+
+How It Works:
+The chatbot uses if-elif conditions to match user questions with predefined responses.
+
+Limitations:
+- Cannot answer questions outside predefined queries.
+- Does not use machine learning or generative AI.
+- Responses are static.
