@@ -1,0 +1,19 @@
+Test 1:
+Input: What is the total revenue?
+Output: Microsoft 2025 Revenue: $281.7B, Apple 2025 Revenue: $416.2B, Tesla 2025 Revenue: $103B
+
+Test 2:
+Input: Tell me net income
+Output: Apple had the highest net income in 2025 with approximately $112B.
+
+Test 3:
+Input: What are the assets?
+Output: Microsoft had the highest total assets among the analyzed companies.
+
+Test 4:
+Input: Cash flow details
+Output: All three companies generated positive operating cash flow.
+
+Test 5:
+Input: Hello
+Output: Sorry, I can only answer predefined financial questions.
